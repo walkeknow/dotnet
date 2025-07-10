@@ -1,0 +1,9 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# MacOS specific files
+.DS_Store
